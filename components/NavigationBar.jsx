@@ -76,17 +76,17 @@ const nav_items = [
   {
     icon_url: "/images/students.png",
     name: "O’quvchilar",
-    link: '/'
+    link: '/students'
   },
   {
     icon_url: "/images/routines.png",
     name: "Dars jadvali",
-    link: '/'
+    link: '/groups'
   },
   {
     icon_url: "/images/settings.png",
     name: "Sozlamalar",
-    link: '/'
+    link: '/students'
   },
   {
     icon_url: "/images/help.png",
